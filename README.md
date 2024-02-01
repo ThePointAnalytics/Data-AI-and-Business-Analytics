@@ -1,6 +1,7 @@
 
 ## Unveiling Kenya's Data & AI Talent Landscape: Top Employers Across Sectors
 
+![image](https://www.worklife.news/wp-content/uploads/sites/6/2022/07/Image-from-iOS.jpg)
 
 Harnessing the power of #RStudio, this analysis dives into the Kenyan job market, unveiling the top employers seeking data, AI, and business analytics professionals across three distinct sectors: private, public, and NGO. This insightful exploration illuminates potential career paths and industry trends, empowering individuals to navigate the dynamic Kenyan data landscape.
 
